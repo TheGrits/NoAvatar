@@ -1,0 +1,11 @@
+img.avatar {
+  visibility: hidden;
+}
+
+li.user.thumb.item img {
+  visibility: hidden;
+}
+
+.avatar img {
+  visibility: hidden;
+}
